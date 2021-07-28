@@ -1,0 +1,33 @@
+
+#column1 {
+	float: left;
+	width: 45%;
+	margin-left: auto;
+	margin-right: 5%;
+	text-align:center;
+	
+}
+#column2 {
+	float: right;
+	width: 45%;
+	margin-left: 5%;
+	margin-right: auto;
+	text-align:center;
+}
+#column1 img{
+	max-height: 300px;
+	height: auto;
+}
+#column2 img {
+	max-height: 300px;
+	height: auto;
+}
+.background {
+	background-image: url("../img/background.png");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	background-position:center;
+}
+.footer {
+	text-align: center;
+}
